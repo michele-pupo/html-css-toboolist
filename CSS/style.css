@@ -4,6 +4,7 @@
 }
 /* 
 
+
 /* testo logo */
 .logo-text{
     display: inline-block;
@@ -11,10 +12,40 @@
 }
 /* fine testo logo */
 
+
 /* main */
 main{
     background-color: rgb(147, 36, 36);
-    
-
 }
 /* fine main */
+
+
+/* nav */
+nav{
+    border: 50px;
+}
+/* fine nav */
+
+/* buttom */
+.button {
+    background-color: rgb(0, 162, 255);
+    border-radius: 5px;
+    color: white;
+    border-color: white;
+    height: 30px;
+    width: 80px;
+    font-size: 10px;
+}
+/* fine buttom */
+
+
+/* text */
+input{
+    text-align: center;
+    border-radius: 5px;
+    height: 30px;
+    width: 100px;
+    border-color: gray;
+    font-size: 10px;: ;
+}
+/* fine text */
