@@ -55,7 +55,7 @@ nav{
 
 /* buttom */
 .button {
-    background-color: rgb(0, 162, 255);
+    background-color: #45abea;
     border-radius: 5px;
     color: white;
     border-color: white;
@@ -79,7 +79,7 @@ input{
 
 /* text-color-blu */
 #text-color-blu{
-    background-color: rgb(0, 162, 255);
+    background-color: #45abea;
     color: white;
     border-radius: 8px;
     padding: 5px;
@@ -90,7 +90,7 @@ input{
 
 /* text-color-violet */
 #text-color-violet{
-    background-color: rgb(102, 0, 255);
+    background-color: #9c72e4;
     color: white;
     border-radius: 8px;
     padding: 5px;
@@ -101,7 +101,7 @@ input{
 
 /* text-color-green */
 #text-color-green{
-    background-color: rgb(10, 95, 21);
+    background-color: #64c0a9;
     color: white;
     border-radius: 8px;
     padding: 5px;
@@ -112,7 +112,7 @@ input{
 
 /* text-color-orange */
 #text-color-orange{
-    background-color: rgb(207, 75, 9);
+    background-color: #f6b96b;    ;
     color: white;
     border-radius: 8px;
     padding: 5px;
@@ -123,7 +123,7 @@ input{
 
 /* text-color-pink */
 #text-color-pink{
-    background-color: rgb(223, 47, 182);
+    background-color: #d65a9c;
     color: white;
     border-radius: 8px;
     padding: 5px;
@@ -134,7 +134,7 @@ input{
 
 /* text-color-lightgreen */
 #text-color-lightgreen{
-    background-color: rgb(103, 223, 47);
+    background-color: #b0c926;
     color: white;
     border-radius: 8px;
     padding: 5px;
