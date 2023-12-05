@@ -92,3 +92,25 @@ input{
     font-size: 10px;
 }
 /* fine text-color-orange */
+
+
+/* text-color-pink */
+#text-color-pink{
+    background-color: rgb(223, 47, 182);
+    color: white;
+    border-radius: 8px;
+    padding: 5px;
+    font-size: 10px;
+}
+/* fine text-color-pink */
+
+
+/* text-color-lightgreen */
+#text-color-lightgreen{
+    background-color: rgb(103, 223, 47);
+    color: white;
+    border-radius: 8px;
+    padding: 5px;
+    font-size: 10px;
+}
+/* fine text-color-lightgreen */
