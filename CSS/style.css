@@ -5,12 +5,27 @@
 /* 
 
 
+/* logo */
+.logo{
+    vertical-align: middle;
+}
+/* fine logo */
+
+
 /* testo logo */
 .logo-text{
     display: inline-block;
-    font-size: 40px; 
-}
+    font-size: 40px;
+    height: 30px;
 /* fine testo logo */
+
+
+/* nav */
+nav{
+    padding: 0px 0px 20px 0px;
+}
+/* fine nav */
+
 
 /* main */
 main{
