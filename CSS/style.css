@@ -3,3 +3,8 @@
     box-sizing: border-box;
 }
 /* 
+
+/* testo logo */
+.logo-text{
+    display: inline-block; 
+/* fine testo logo */
