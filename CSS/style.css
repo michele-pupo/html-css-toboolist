@@ -6,5 +6,15 @@
 
 /* testo logo */
 .logo-text{
-    display: inline-block; 
+    display: inline-block;
+    font-size: 40px; 
+}
 /* fine testo logo */
+
+/* main */
+main{
+    background-color: rgb(147, 36, 36);
+    
+
+}
+/* fine main */
