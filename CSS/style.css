@@ -8,6 +8,7 @@
 /* logo */
 .logo{
     vertical-align: middle;
+    margin-bottom: 20px;
 }
 /* fine logo */
 
@@ -16,7 +17,8 @@
 .logo-text{
     display: inline-block;
     font-size: 40px;
-    height: 30px;
+    margin-bottom: 20px;
+}
 /* fine testo logo */
 
 
