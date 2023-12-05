@@ -12,12 +12,22 @@
 }
 /* fine testo logo */
 
-
 /* main */
 main{
-    background-color: lightgray
+    background-color: lightgray;
+    padding: 30px;
 }
 /* fine main */
+
+
+/* article */
+article{
+    background-color: white;
+    width: 80%;
+    margin: auto;
+    padding: 30px;
+}
+/* fine article */
 
 /* DA RIVEDERE */
 /* nav */
