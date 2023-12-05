@@ -59,3 +59,36 @@ input{
     font-size: 10px;
 }
 /* fine text-color-blu */
+
+
+/* text-color-violet */
+#text-color-violet{
+    background-color: rgb(102, 0, 255);
+    color: white;
+    border-radius: 8px;
+    padding: 5px;
+    font-size: 10px;
+}
+/* fine text-color-violet */
+
+
+/* text-color-green */
+#text-color-green{
+    background-color: rgb(10, 95, 21);
+    color: white;
+    border-radius: 8px;
+    padding: 5px;
+    font-size: 10px;
+}
+/* fine text-color-green */
+
+
+/* text-color-orange */
+#text-color-orange{
+    background-color: rgb(207, 75, 9);
+    color: white;
+    border-radius: 8px;
+    padding: 5px;
+    font-size: 10px;
+}
+/* fine text-color-orange */
