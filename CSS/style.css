@@ -26,6 +26,7 @@
 /* nav */
 nav{
     padding: 0px 0px 20px 0px;
+    margin-bottom: 2px;
 }
 /* fine nav */
 
@@ -44,6 +45,7 @@ article{
     width: 80%;
     margin: auto;
     padding: 30px;
+    font-family: sans-serif;
 }
 /* fine article */
 
