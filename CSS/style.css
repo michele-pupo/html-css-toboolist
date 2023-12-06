@@ -16,8 +16,9 @@
 /* testo logo */
 .logo-text{
     display: inline-block;
-    font-size: 40px;
+    font-size: bold;
     margin-bottom: 20px;
+    font-family: sans-serif;
 }
 /* fine testo logo */
 
