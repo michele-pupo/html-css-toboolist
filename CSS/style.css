@@ -59,34 +59,28 @@ main{
 /* fine main */
 
 
-/* article */
-article{
-    background-color: white;
-    width: 80%;
-    margin: auto;
-    padding: 30px;
-    font-family: sans-serif;
+/* buttons */
+#buttons {
+    padding: 22px 48px;
 }
-/* fine article */
 
-/* DA RIVEDERE */
-/* nav */
-nav{
-    border: 50px;
+button{
+    padding: 8px 16px;
+    border-radius: 6px;
+    border: 2px solid #ced3d7;
+    background-color: transparent;
+    color: #ced3d7;
+    font-weight: bold;
 }
-/* fine nav */
 
-/* buttom */
-.button {
-    background-color: #45abea;
-    border-radius: 5px;
+.btn-primary{
+    border-color: #47acf0;
+    background-color: #47acf0;
     color: white;
-    border-color: white;
-    height: 30px;
-    width: 80px;
-    font-size: 10px;
+
+
 }
-/* fine buttom */
+/* fine buttons */
 
 
 /* text */
