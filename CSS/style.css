@@ -101,11 +101,28 @@ ul{
 
 li{
     padding: 15px;
+    font-size: 22px;
+    color: #454952;
 }
 
 .icon{
-    border: red 1px solid;
+    display: inline-block;
+    height: 26px;
+    width: 26px;
+    border: black 1px solid;
+    border-radius: 50%;
     font-size: 0.7em;
+    text-align: center;
+}
+
+.check{
+    color: #61bea7;
+    border-color: #61bea7;
+}
+
+.cross{
+    color: #e7372f;
+    border-color: #e7372f;
 }
 /* fine lista */
 
