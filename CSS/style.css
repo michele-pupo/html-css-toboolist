@@ -1,5 +1,6 @@
 /* regola di reset */
 *{
+    margin: 0;
     box-sizing: border-box;
 }
 /* 
@@ -8,8 +9,19 @@
 /* body */
 body{
     font-family: sans-serif; 
+    background-color:#f6f8f9 ;
 }
 /* fine body */
+
+
+/* header */
+header{
+    padding: 12px 28px;
+    margin-bottom: 36px; 
+    background-color: white;
+
+}
+/* fine header */
 
 
 /* logo */
@@ -22,7 +34,8 @@ body{
 /* testo logo */
 h1{
     display: inline-block;
-    font-size: bold;
+    font-size: 48px;
+    font-weight: bold;
     vertical-align: middle;
 }
 /* fine testo logo */
@@ -38,7 +51,7 @@ nav{
 
 /* main */
 main{
-    background-color: #f6f8f9;
+    background-color: white
     padding: 30px;
 }
 /* fine main */
