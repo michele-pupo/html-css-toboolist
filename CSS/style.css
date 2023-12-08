@@ -138,7 +138,27 @@ li{
 }
 
 .cat-editorial{
-    
+    background-color: #47acf0;
+}
+
+.cat-goals{
+    background-color: #9B72E3;
+}
+
+.cat-recruiting{
+    background-color: #64BFA8;
+}
+
+.cat-mobile{
+    background-color: #F19D33;
+}
+
+.cat-website{
+    background-color: #d763a0;;
+}
+
+.cat-sales{
+    background-color: #afc826;
 }
 /* fine categoria dei task */
 /* fine lista */
