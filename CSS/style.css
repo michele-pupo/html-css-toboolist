@@ -5,20 +5,25 @@
 /* 
 
 
+/* body */
+body{
+    font-family: sans-serif; 
+}
+/* fine body */
+
+
 /* logo */
 .logo{
     vertical-align: middle;
-    margin-bottom: 20px;
 }
 /* fine logo */
 
 
 /* testo logo */
-.logo-text{
+h1{
     display: inline-block;
     font-size: bold;
-    margin-bottom: 20px;
-    font-family: sans-serif;
+    vertical-align: middle;
 }
 /* fine testo logo */
 
