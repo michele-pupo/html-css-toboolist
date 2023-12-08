@@ -1,6 +1,7 @@
 /* regola di reset */
 *{
     margin: 0;
+    padding: 0;
     box-sizing: border-box;
 }
 /* 
@@ -77,11 +78,16 @@ button{
     border-color: #47acf0;
     background-color: #47acf0;
     color: white;
-
-
 }
 /* fine buttons */
 
+
+/* lista */
+li{
+    padding: 0px;
+    list-style-type: none;
+}
+/* fine lista */
 
 /* text */
 input{
