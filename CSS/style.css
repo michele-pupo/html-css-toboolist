@@ -88,10 +88,13 @@ button{
     padding: 36px 48px;
 }
 
+.task-group{
+    margin-bottom: 36px;
+}
+
 h2{
    color: #454952;
    font-size: 26px; 
-   margin-bottom: 26px;
 }
 
 ul{
@@ -124,5 +127,19 @@ li{
     color: #e7372f;
     border-color: #e7372f;
 }
+
+/* categoria dei task */
+.category{
+    padding: 10px 16px;
+    background-color: black;
+    border-radius: 16px;
+    color: white;
+    font-size: 0.6em;
+}
+
+.cat-editorial{
+    
+}
+/* fine categoria dei task */
 /* fine lista */
 
