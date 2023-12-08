@@ -89,14 +89,23 @@ button{
 }
 
 h2{
-   color: #454952; 
+   color: #454952;
+   font-size: 26px; 
+   margin-bottom: 26px;
 }
-
-
 
 ul{
     padding: 0px;
     list-style-type: none;
+}
+
+li{
+    padding: 15px;
+}
+
+.icon{
+    border: red 1px solid;
+    font-size: 0.7em;
 }
 /* fine lista */
 
